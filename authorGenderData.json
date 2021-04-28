@@ -1,0 +1,477 @@
+[
+    {
+        "author": "Paul Kocher",
+        "titles": [
+            "Spectre Attacks: Exploiting Speculative Execution.",
+            "Meltdown"
+        ],
+        "cleanedTitles": "spectr attack exploit specul execut meltdown",
+        "gender": "male",
+        "probability": 0.99,
+        "count": 148099
+    },
+    {
+        "author": "Daniel Genkin",
+        "titles": [
+            "Spectre Attacks: Exploiting Speculative Execution.",
+            "Meltdown"
+        ],
+        "cleanedTitles": "spectr attack exploit specul execut meltdown",
+        "gender": "male",
+        "probability": 0.99,
+        "count": 317409
+    },
+    {
+        "author": "Daniel Gruss",
+        "titles": [
+            "Spectre Attacks: Exploiting Speculative Execution.",
+            "Meltdown"
+        ],
+        "cleanedTitles": "spectr attack exploit specul execut meltdown",
+        "gender": "male",
+        "probability": 0.99,
+        "count": 317409
+    },
+    {
+        "author": "Werner Haas",
+        "titles": [
+            "Spectre Attacks: Exploiting Speculative Execution.",
+            "Meltdown"
+        ],
+        "cleanedTitles": "spectr attack exploit specul execut meltdown",
+        "gender": "male",
+        "probability": 0.99,
+        "count": 9378
+    },
+    {
+        "author": "Mike Hamburg",
+        "titles": [
+            "Spectre Attacks: Exploiting Speculative Execution.",
+            "Meltdown"
+        ],
+        "cleanedTitles": "spectr attack exploit specul execut meltdown",
+        "gender": "male",
+        "probability": 0.99,
+        "count": 109844
+    },
+    {
+        "author": "Moritz Lipp",
+        "titles": [
+            "Spectre Attacks: Exploiting Speculative Execution.",
+            "Meltdown"
+        ],
+        "cleanedTitles": "spectr attack exploit specul execut meltdown",
+        "gender": "male",
+        "probability": 0.99,
+        "count": 4088
+    },
+    {
+        "author": "Stefan Mangard",
+        "titles": [
+            "Spectre Attacks: Exploiting Speculative Execution.",
+            "Meltdown"
+        ],
+        "cleanedTitles": "spectr attack exploit specul execut meltdown",
+        "gender": "male",
+        "probability": 0.98,
+        "count": 83987
+    },
+    {
+        "author": "Thomas Prescher 0002",
+        "titles": [
+            "Spectre Attacks: Exploiting Speculative Execution.",
+            "Meltdown"
+        ],
+        "cleanedTitles": "spectr attack exploit specul execut meltdown",
+        "gender": "male",
+        "probability": 0.99,
+        "count": 176440
+    },
+    {
+        "author": "Michael Schwarz 0001",
+        "titles": [
+            "Spectre Attacks: Exploiting Speculative Execution.",
+            "Meltdown"
+        ],
+        "cleanedTitles": "spectr attack exploit specul execut meltdown",
+        "gender": "male",
+        "probability": 0.99,
+        "count": 245870
+    },
+    {
+        "author": "Yuval Yarom",
+        "titles": [
+            "Spectre Attacks: Exploiting Speculative Execution.",
+            "Meltdown"
+        ],
+        "cleanedTitles": "spectr attack exploit specul execut meltdown",
+        "gender": "male",
+        "probability": 0.93,
+        "count": 235
+    },
+    {
+        "author": "Frank Manola",
+        "titles": [
+            "An Evaluation of Object-Oriented DBMS Developments: 1994 Edition.",
+            "Object Model Capabilities For Distributed Object Management.",
+            "Integrating Object-Oriented Applications and Middleware with Relational Databases.",
+            "A 'RISC' Object Model for Object System Interoperation: Concepts and Applications.",
+            "MetaObject Protocol Concepts for a RISC Object Model.",
+            "Object Data Language Facilities for Multimedia Data Types.",
+            "Object Data Model Facilities for Multimedia Data Types.",
+            "Distributed Object Management Technology."
+        ],
+        "cleanedTitles": "An evalu object orient dbm develop edit object model capabl for distribut object manag integr object orient applic middlewar relat databas A risc object model object system interoper concept applic metaobject protocol concept risc object model object data languag facil multimedia data type object data model facil multimedia data type distribut object manag technolog",
+        "gender": "male",
+        "probability": 0.99,
+        "count": 82391
+    },
+    {
+        "author": "Michael L. Brodie",
+        "titles": [
+            "DARWIN: On the Incremental Migration of Legacy Information Systems"
+        ],
+        "cleanedTitles": "darwin On increment migrat legaci inform system",
+        "gender": "male",
+        "probability": 0.99,
+        "count": 245870
+    },
+    {
+        "author": "Michael Stonebraker",
+        "titles": [
+            "DARWIN: On the Incremental Migration of Legacy Information Systems",
+            "Muffin: A Distributed Database Machine"
+        ],
+        "cleanedTitles": "darwin On increment migrat legaci inform system muffin A distribut databas machin",
+        "gender": "male",
+        "probability": 0.99,
+        "count": 245870
+    },
+    {
+        "author": "Mark F. Hornick",
+        "titles": [
+            "Integrating Heterogeneous, Autonomous, Distributed Applications Using the DOM Prototype.",
+            "Object Data Model Facilities for Multimedia Data Types."
+        ],
+        "cleanedTitles": "integr heterogen autonom distribut applic use dom prototyp object data model facil multimedia data type",
+        "gender": "male",
+        "probability": 0.99,
+        "count": 119313
+    },
+    {
+        "author": "Joe D. Morrison",
+        "titles": [
+            "Integrating Heterogeneous, Autonomous, Distributed Applications Using the DOM Prototype."
+        ],
+        "cleanedTitles": "integr heterogen autonom distribut applic use dom prototyp",
+        "gender": "male",
+        "probability": 0.95,
+        "count": 58829
+    },
+    {
+        "author": "Farshad Nayeri",
+        "titles": [
+            "Integrating Heterogeneous, Autonomous, Distributed Applications Using the DOM Prototype.",
+            "Experiments with Dispatching in a Distributed Object System."
+        ],
+        "cleanedTitles": "integr heterogen autonom distribut applic use dom prototyp experi dispatch distribut object system",
+        "gender": "male",
+        "probability": 0.98,
+        "count": 1056
+    },
+    {
+        "author": "Alejandro P. Buchmann",
+        "titles": [
+            "Towards a Transaction Management System for DOM.",
+            "Object Data Model Facilities for Multimedia Data Types."
+        ],
+        "cleanedTitles": "toward transact manag system dom object data model facil multimedia data type",
+        "gender": "male",
+        "probability": 0.99,
+        "count": 56977
+    },
+    {
+        "author": "M. Tamer \u00d6zsu",
+        "titles": [
+            "Towards a Transaction Management System for DOM."
+        ],
+        "cleanedTitles": "toward transact manag system dom",
+        "gender": "None",
+        "probability": 0,
+        "count": 0
+    },
+    {
+        "author": "Dimitrios Georgakopoulos",
+        "titles": [
+            "Towards a Transaction Management System for DOM."
+        ],
+        "cleanedTitles": "toward transact manag system dom",
+        "gender": "male",
+        "probability": 0.99,
+        "count": 1919
+    },
+    {
+        "author": "Sandra Heiler",
+        "titles": [
+            "A 'RISC' Object Model for Object System Interoperation: Concepts and Applications."
+        ],
+        "cleanedTitles": "A risc object model object system interoper concept applic",
+        "gender": "female",
+        "probability": 0.98,
+        "count": 266121
+    },
+    {
+        "author": "Benjamin Hurwitz",
+        "titles": [
+            "Experiments with Dispatching in a Distributed Object System."
+        ],
+        "cleanedTitles": "experi dispatch distribut object system",
+        "gender": "male",
+        "probability": 0.99,
+        "count": 62465
+    },
+    {
+        "author": "David Beech",
+        "titles": [
+            "Object Oriented DBMS as a Generalization of Relational DBMS",
+            "Unification of Value and Object ADTs"
+        ],
+        "cleanedTitles": "object orient dbm gener relat dbm unif valu object adt",
+        "gender": "male",
+        "probability": 0.99,
+        "count": 501011
+    },
+    {
+        "author": "Cetin Ozbutun",
+        "titles": [
+            "Object Oriented DBMS as a Generalization of Relational DBMS"
+        ],
+        "cleanedTitles": "object orient dbm gener relat dbm",
+        "gender": "male",
+        "probability": 0.97,
+        "count": 2469
+    },
+    {
+        "author": "Krishna G. Kulkarni",
+        "titles": [
+            "Inheritance for ADTs (revised)",
+            "Object ADTs (with improvements for Value ADTs)"
+        ],
+        "cleanedTitles": "inherit adt revis object adt improv valu adt",
+        "gender": "male",
+        "probability": 0.89,
+        "count": 2891
+    },
+    {
+        "author": "Jim Melton",
+        "titles": [
+            "Inheritance for ADTs (revised)",
+            "Object ADTs (with improvements for Value ADTs)"
+        ],
+        "cleanedTitles": "inherit adt revis object adt improv valu adt",
+        "gender": "male",
+        "probability": 0.98,
+        "count": 26900
+    },
+    {
+        "author": "Jonathan Bauer",
+        "titles": [
+            "Inheritance for ADTs (revised)",
+            "Object ADTs (with improvements for Value ADTs)"
+        ],
+        "cleanedTitles": "inherit adt revis object adt improv valu adt",
+        "gender": "male",
+        "probability": 0.99,
+        "count": 87986
+    },
+    {
+        "author": "Mike Kelley",
+        "titles": [
+            "Inheritance for ADTs (revised)"
+        ],
+        "cleanedTitles": "inherit adt revis",
+        "gender": "male",
+        "probability": 0.99,
+        "count": 109844
+    },
+    {
+        "author": "Phil Shaw",
+        "titles": [
+            "Modification of User Defined Types"
+        ],
+        "cleanedTitles": "modif user defin type",
+        "gender": "male",
+        "probability": 0.98,
+        "count": 28225
+    },
+    {
+        "author": "Rolf Sander",
+        "titles": [
+            "Die Repr\u00e4sentation r\u00e4umlichen Wissens und die Behandlung von Einbettungsproblemen mit Quadtreedepiktionen"
+        ],
+        "cleanedTitles": "die repr sentat r umlichen wissen und die behandlung von einbettungsproblemen mit quadtreedepiktionen",
+        "gender": "male",
+        "probability": 0.99,
+        "count": 7534
+    },
+    {
+        "author": "Thomas Ludwig 0001",
+        "titles": [
+            "Algebraical Optimization of FTA-Expressions"
+        ],
+        "cleanedTitles": "algebra optim fta express",
+        "gender": "male",
+        "probability": 0.99,
+        "count": 176440
+    },
+    {
+        "author": "Werner Emde",
+        "titles": [
+            "Wissensrepr\u00e4sentation und Maschinelles Lernen"
+        ],
+        "cleanedTitles": "wissensrepr sentat und maschinel lernen",
+        "gender": "male",
+        "probability": 0.99,
+        "count": 9378
+    },
+    {
+        "author": "Claus-Rainer Rollinger",
+        "titles": [
+            "Wissensrepr\u00e4sentation und Maschinelles Lernen"
+        ],
+        "cleanedTitles": "wissensrepr sentat und maschinel lernen",
+        "gender": "None",
+        "probability": 0,
+        "count": 0
+    },
+    {
+        "author": "Christoph Beierle",
+        "titles": [
+            "An Algebraic Characterization of STUF"
+        ],
+        "cleanedTitles": "An algebra character stuf",
+        "gender": "male",
+        "probability": 1,
+        "count": 17656
+    },
+    {
+        "author": "Udo Pletat",
+        "titles": [
+            "An Algebraic Characterization of STUF"
+        ],
+        "cleanedTitles": "An algebra character stuf",
+        "gender": "male",
+        "probability": 0.99,
+        "count": 4182
+    },
+    {
+        "author": "Hans Uszkoreit",
+        "titles": [
+            "An Algebraic Characterization of STUF"
+        ],
+        "cleanedTitles": "An algebra character stuf",
+        "gender": "male",
+        "probability": 0.97,
+        "count": 37182
+    },
+    {
+        "author": "Ulrike Rackow",
+        "titles": [
+            "A Combined Symbolic-Empirical Apprach for the Automatic Translation of Compounds"
+        ],
+        "cleanedTitles": "A combin symbol empir apprach automat translat compound",
+        "gender": "female",
+        "probability": 0.97,
+        "count": 5228
+    },
+    {
+        "author": "Ido Dagan",
+        "titles": [
+            "A Combined Symbolic-Empirical Apprach for the Automatic Translation of Compounds"
+        ],
+        "cleanedTitles": "A combin symbol empir apprach automat translat compound",
+        "gender": "male",
+        "probability": 0.82,
+        "count": 820
+    },
+    {
+        "author": "Ulrike Schwall",
+        "titles": [
+            "A Combined Symbolic-Empirical Apprach for the Automatic Translation of Compounds"
+        ],
+        "cleanedTitles": "A combin symbol empir apprach automat translat compound",
+        "gender": "female",
+        "probability": 0.97,
+        "count": 5228
+    },
+    {
+        "author": "Brigitte Bartsch-Sp\u00f6rl",
+        "titles": [
+            "Zur Systemarchitektur von LILOG"
+        ],
+        "cleanedTitles": "zur systemarchitektur von lilog",
+        "gender": "female",
+        "probability": 0.98,
+        "count": 32701
+    },
+    {
+        "author": "Erich Gehlen",
+        "titles": [
+            "Mengenorientierte Auswertung von Anfragen in der Logikprogrammiersprache PROLOG"
+        ],
+        "cleanedTitles": "mengenorientiert auswertung von anfragen der logikprogrammiersprach prolog",
+        "gender": "male",
+        "probability": 0.98,
+        "count": 3025
+    },
+    {
+        "author": "Burkhard Kehrbusch",
+        "titles": [
+            "Mengenorientierte Auswertung von Anfragen in der Logikprogrammiersprache PROLOG"
+        ],
+        "cleanedTitles": "mengenorientiert auswertung von anfragen der logikprogrammiersprach prolog",
+        "gender": "male",
+        "probability": 0.99,
+        "count": 675
+    },
+    {
+        "author": "Markus H\u00f6hfeld",
+        "titles": [
+            "Definite Resolution over Constraint Languages"
+        ],
+        "cleanedTitles": "definit resolut constraint languag",
+        "gender": "male",
+        "probability": 1,
+        "count": 47703
+    },
+    {
+        "author": "Gert Smolka",
+        "titles": [
+            "Definite Resolution over Constraint Languages"
+        ],
+        "cleanedTitles": "definit resolut constraint languag",
+        "gender": "male",
+        "probability": 0.98,
+        "count": 4822
+    },
+    {
+        "author": "Birgit Wesche",
+        "titles": [
+            "Dokumentation der Syntax der LILOG-Grammatik"
+        ],
+        "cleanedTitles": "dokument der syntax der lilog grammatik",
+        "gender": "female",
+        "probability": 0.98,
+        "count": 10750
+    },
+    {
+        "author": "Christopher Habel",
+        "titles": [
+            "Cognitive Linguistics: The Processing of Spatial Concepts"
+        ],
+        "cleanedTitles": "cognit linguist the process spatial concept",
+        "gender": "male",
+        "probability": 0.99,
+        "count": 53539
+    }
+]
